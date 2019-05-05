@@ -13,7 +13,7 @@ I focus on Ethereum and Loom Network as the DApps.
 
 ### node.js
 node.js is the server side platform of JavaScript.  
-[node.js : Official](https://nodejs.org/en/)  
+- [node.js : Official](https://nodejs.org/en/)  
 
 ### Constitution
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
@@ -48,7 +48,7 @@ git clone https://github.com/zombietimes/setup0040_nodeJs.git
 cd setup0040_nodeJs
 sh ./ubuntuCmd_setupNodeJs.sh
 ```
-![setup0040_nodeJs_0000.png]()  
+![setup0040_nodeJs_0000](https://user-images.githubusercontent.com/50263232/57186248-a3d32c00-6f16-11e9-882f-6ec06133a1e6.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -56,25 +56,25 @@ It works on the environment below.
 - On Ubuntu.
 - Google Chrome.
 
-## Relative links
+## Relative link
 ### Overview
-[Ethereum : Official](https://www.ethereum.org/)
-[Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-[Loom Network : Official](https://loomx.io/)
-[Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
+- [Ethereum : Official](https://www.ethereum.org/)
+- [Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [Loom Network : Official](https://loomx.io/)
+- [Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
 
 ### Development
-[Online editor : EthFiddle](https://ethfiddle.com/)
-[Online editor : Remix](https://remix.ethereum.org/)
+- [Online editor : EthFiddle](https://ethfiddle.com/)
+- [Online editor : Remix](https://remix.ethereum.org/)
 
 ### Learning
-[Online learning : CryptoZombies](https://cryptozombies.io/)
-[Grammar : Solidity](https://solidity.readthedocs.io/)
-[Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Online learning : CryptoZombies](https://cryptozombies.io/)
+- [Grammar : Solidity](https://solidity.readthedocs.io/)
+- [Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ### DApps
-[DApps : CryptoKitties](https://www.cryptokitties.co/)
-[DApps : Zombie Battle ground](https://loom.games/en/)
+- [DApps : CryptoKitties](https://www.cryptokitties.co/)
+- [DApps : Zombie Battle ground](https://loom.games/en/)
 
 ## Messages
 Do you believe that the decentralized world is coming?  
@@ -83,7 +83,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
