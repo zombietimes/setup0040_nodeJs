@@ -15,6 +15,22 @@ I focus on Ethereum and Loom Network as the DApps.
 node.js is the server side platform of JavaScript.  
 - [node.js : Official](https://nodejs.org/en/)  
 
+### npm
+npm supports to manage the application version of node.js.  
+- [npm : Official](https://www.npmjs.com/)
+
+### NVM : Node Version Manager
+NVM supports to manage the application version of node.js and npm.  
+If you want to use NVM, use [setup0041_nvm](https://github.com/zombietimes/setup0041_nvm) instead of [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs).  
+- [NVM : Official](https://github.com/nvm-sh/nvm)
+- [setup0041_nvm](https://github.com/zombietimes/setup0041_nvm)
+
+### yarn
+yarn supports to manage the application version instead of npm.  
+If you want to use yarn, use [setup0042_yarn](https://github.com/zombietimes/setup0042_yarn) too.  
+- [yarn : Official](https://yarnpkg.com/en/)
+- [setup0042_yarn](https://github.com/zombietimes/setup0042_yarn)
+
 ### Constitution
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
 [setup0000_all](https://github.com/zombietimes/setup0000_all) consists of the external script files below.  
